@@ -80,9 +80,9 @@
   {
     "seqNo": 12,
     "prompt": "Each of the players _______ given a medal.",
-    "choices": ["was", "is", "are", "be"],
+    "choices": ["were", "are", "is", "have"],
     "correctIndex": 2,
-    "explanation": "With 'neither...nor', the verb agrees with the closer subject, which is 'students' (plural). So the correct verb is 'are.'"
+    "explanation": " Explanation: “Each” is always singular, even if followed by a plural noun. So we use “is.”.'"
   },
   {
     "seqNo": 13,
